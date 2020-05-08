@@ -1,0 +1,45 @@
+body{
+
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#main
+{
+    text-decoration: underline;
+    color: cornflowerblue;
+}
+label
+{
+    font-weight: bold;
+}
+form
+{
+    margin-left: 20px;
+    padding: 10px;
+    
+}
+table
+{   
+    width:80%;
+    border: 2px mediumslateblue;
+}
+tr
+{
+    height: 20px;
+    border: 1px mediumslateblue;
+}
+td{
+    border:1px mediumslateblue;
+}
+div{
+    text-align: left;
+    width: 80%;
+    margin-left:120px;
+    background-color: mediumslateblue;
+}
+.button
+{
+    margin-left: 45%;
+    width: 50%;
+}
